@@ -1,0 +1,1 @@
+self.client = TelegramClient("telegram_monitor_render", api_id, api_hash)
